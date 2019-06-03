@@ -1,6 +1,6 @@
 package AccessModifiers;
 
-public class TestDemo {
+ public  class TestDemo {
 	
 	
 	public void publicmethod1()
@@ -32,6 +32,8 @@ public class TestDemo {
 	public static void main(String[] args) {
 		
 		TestDemo TestDemoref=new TestDemo();
+		
+		
 		
 		
 		

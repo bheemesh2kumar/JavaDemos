@@ -10,6 +10,7 @@ public class TestDemo2 extends TestDemo {
 		TestDemo2ref.proteectedmethod3();
 		TestDemo2ref.publicmethod1();
 		
+		
 
 	}
 

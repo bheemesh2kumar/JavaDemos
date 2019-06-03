@@ -11,6 +11,7 @@ public class TestDemo10 extends TestDemo  {
 		TestDemo10ref.proteectedmethod3();
 		TestDemo10ref.publicmethod1();
 		
+		
 	
 
 	}
